@@ -3,6 +3,8 @@ Vaughn Johnson
 10 September 2015
 
 4 tone grayscale using two colors
+
+the promised land of zion
 """
 from PIL import Image
 from random import randint
